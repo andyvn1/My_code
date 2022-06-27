@@ -1,2 +1,2 @@
-# My_code
+# mycode
 Lab Work for altaPhyton
